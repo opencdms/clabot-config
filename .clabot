@@ -1,4 +1,7 @@
 {
-  "contributors": [ "isedwards" ],
-  "message": "We require contributors to sign our Contributor License Agreement, and we don't have {{usersWithoutCLA}} on file. In order for us to review and merge your code, please contact @isedwards to get yourself added."
+	"NOTE": "Add your GitHub username to the list below to confirm that you agree to the CLA - http://openwis.github.io/openwis-documentation/static/CLA/CLAform.html",
+
+	"contributors": ["isedwards"],
+
+	"message": "We require contributors to sign our Contributor License Agreement, and we don't have {{usersWithoutCLA}} on file. In order for us to review and merge your code, please contact @isedwards to get yourself added."
 }
