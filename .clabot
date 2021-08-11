@@ -1,7 +1,9 @@
 {
-	"NOTE": "Add your GitHub username to the list below to confirm that you agree to the CLA - http://openwis.github.io/openwis-documentation/static/CLA/CLAform.html",
+    "NOTE": "Add your GitHub username to the list below to confirm that you agree to the CLA - http://openwis.github.io/openwis-documentation/static/CLA/CLAform.html",
 
-	"contributors": ["isedwards"],
+    "contributors": ["isedwards"],
 
-	"message": "We require contributors to sign our Contributor License Agreement, and we don't have {{usersWithoutCLA}} on file. In order for us to review and merge your code, please contact @isedwards to get yourself added."
+    "message": "We require contributors to sign our Contributor License Agreement, and we don't have {{usersWithoutCLA}} on file. In order for us to review and merge your code, please contact @isedwards to get yourself added.",
+
+    "cla_also_signed_by": ["angel-l-aldana", "githubetna", "dannyparsons", "volloholic", "DenisStuber", "eporrasc", "jaggh", "karenmccourt", "mhabimana", "martinschweitzer", "nravalitera", "PeerWMO", "smachua", "Steve-Palmer", "lloyddewit", "rdstern", "WilliamJWright"]
 }
