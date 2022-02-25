@@ -8,8 +8,7 @@ Before we can merge contributions of code and documentation, we need developers 
 - In addition to the considerations above, please review the full details at the [OpenWIS Assocation website](http://openwis.github.io/openwis-documentation/rules/A-contributor-license-agreement.html).
 
 The Contributor's Licence Agreement form can be downloaded/printed [here](http://openwis.github.io/openwis-documentation/static/CLA/CLAform.html).
-
-You can see an [example of the completed form here](https://github.com/opencdms/clabot-config/blob/main/openwis_association_cla_example.pdf).
+<!--You can see an [example of the completed form here](https://github.com/opencdms/clabot-config/blob/main/openwis_association_cla_example.pdf).-->
 
 ## Technical information
 
