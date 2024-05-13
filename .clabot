@@ -18,7 +18,7 @@
 "JerryHamm",
 "scottylad501",
 "Surface",
-
+"GiusGasSmart",
 
 
 "dependabot[bot]"], "message": "We require contributors to sign our Contributor License Agreement, and we don't have {{usersWithoutCLA}} on file. In order for us to review and merge your code, please contact @isedwards to get yourself added."}
